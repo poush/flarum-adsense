@@ -1,9 +1,8 @@
 {
-    "name": "adsense",
+    "name": "poush/flarum-adsense",
     "title": "Google Adsense",
     "description": "Add Google Adsense to your posts",
     "keywords": [],
-    "version": "0.1.0",
     "author": {
         "name": "Piyush",
         "email": "poush12@gmail.com",
